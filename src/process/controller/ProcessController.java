@@ -5,7 +5,7 @@ public class ProcessController
 
 	public void start()
 	{
-		ProcessController appController = new ProcessController();
-		appController.start();
+		System.out.println("Blaaaaaa");
+		System.out.println("Boooooo");
 	}
 }
